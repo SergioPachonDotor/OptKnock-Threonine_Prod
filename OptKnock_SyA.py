@@ -12,7 +12,8 @@ genome = 'iAF1260'
 objective_id = 'THRS'
 biomass="BIOMASS_Ec_iAF1260_core_59p81M"
 
-path = f'../../genome/{genome}.xml'
+path = f'./genome/{genome}.xml'
+dest_path = f'./genome/E_coli_yaml/'
 model = load_model(path)
 model.solver = 'gurobi'
 

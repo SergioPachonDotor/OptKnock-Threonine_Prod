@@ -22,7 +22,7 @@ thr_production = wt_solution.fluxes["THRS"]
 
 optknock = OptKnock(model, fraction_of_optimum=0.1)
 
-# result = optknock.run(max_knockouts=1, target=objective_id, biomass=biomass)
-# print(result)
+knock_outs = 2
+results = [optknock.run(max_knockouts=i, target=objective_id, biomass=biomass) for i in range(1, knock_outs + 1)]
 
-print(optknock)
+[results[i].data_frame.to_csv(f'./results/iAF1260_core_59p81M_THRS_{i + 1}_knockouts.csv') for i in range(knock_outs)]

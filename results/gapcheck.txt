@@ -1,0 +1,574 @@
+Set parameter Username
+Academic license - for non-commercial use only - expires 2022-07-02
+12ppd__S_c[c]	(S)-Propane-1,2-diol
+12ppd__S_e[e]	(S)-Propane-1,2-diol
+12ppd__S_p[p]	(S)-Propane-1,2-diol
+14glucan_c[c]	1,4-alpha-D-glucan
+14glucan_e[e]	1,4-alpha-D-glucan
+14glucan_p[p]	1,4-alpha-D-glucan
+23camp_e[e]	2',3'-Cyclic AMP
+23camp_p[p]	2',3'-Cyclic AMP
+23ccmp_e[e]	2',3'-Cyclic CMP
+23ccmp_p[p]	2',3'-Cyclic CMP
+23cgmp_e[e]	2',3'-Cyclic GMP
+23cgmp_p[p]	2',3'-Cyclic GMP
+23cump_e[e]	2',3'-Cyclic UMP
+23cump_p[p]	2',3'-Cyclic UMP
+23dappa_c[c]	2,3-diaminopropionate
+23dappa_e[e]	2,3-diaminopropionate
+23dappa_p[p]	2,3-diaminopropionate
+23doguln_c[c]	2,3-Dioxo-L-gulonate
+25dkglcn_c[c]	2,5-diketo-D-gluconate
+26dap__M_e[e]	Meso-2,6-Diaminoheptanedioate
+26dap__M_p[p]	Meso-2,6-Diaminoheptanedioate
+2ddglcn_c[c]	2-Dehydro-3-deoxy-D-gluconate
+2ddglcn_e[e]	2-Dehydro-3-deoxy-D-gluconate
+2ddglcn_p[p]	2-Dehydro-3-deoxy-D-gluconate
+2dh3dgal_c[c]	2-Dehydro-3-deoxy-D-galactonate
+2dhglcn_c[c]	2-Dehydro-D-gluconate
+2dhguln_c[c]	2-Dehydro-L-gulonate
+2pglyc_c[c]	2-Phosphoglycolate
+34dhpac_e[e]	3,4-Dihydroxyphenylacetaldehyde
+34dhpac_p[p]	3,4-Dihydroxyphenylacetaldehyde
+3amp_e[e]	3  AMP C10H12N5O7P
+3amp_p[p]	3  AMP C10H12N5O7P
+3cmp_e[e]	3  CMP C9H12N3O8P
+3cmp_p[p]	3  CMP C9H12N3O8P
+3dhguln_c[c]	3-Dehydro-L-gulonate
+3dhgulnp_c[c]	3-keto-L-gulonate-6-phosphate
+3gmp_e[e]	Guanosine 3  phosphate C10H12N5O8P
+3gmp_p[p]	Guanosine 3  phosphate C10H12N5O8P
+3hcinnm_c[c]	3-hydroxycinnamic acid
+3hcinnm_e[e]	3-hydroxycinnamic acid
+3hcinnm_p[p]	3-hydroxycinnamic acid
+3hpppn_c[c]	3-(3-hydroxy-phenyl)propionate
+3hpppn_e[e]	3-(3-hydroxy-phenyl)propionate
+3hpppn_p[p]	3-(3-hydroxy-phenyl)propionate
+3sala_c[c]	3-Sulfino-L-alanine
+3ump_e[e]	3  UMP C9H11N2O9P
+3ump_p[p]	3  UMP C9H11N2O9P
+4ahmmp_c[c]	4-Amino-5-hydroxymethyl-2-methylpyrimidine
+4h2opntn_c[c]	4-Hydroxy-2-oxopentanoate
+4hoxpacd_e[e]	4-Hydroxyphenylacetaldehyde
+4hoxpacd_p[p]	4-Hydroxyphenylacetaldehyde
+4mhetz_c[c]	4-Methyl-5-(2-hydroxyethyl)-thiazole
+5dh4dglc_c[c]	5-Dehydro-4-deoxy-D-glucarate
+5prdmbz_c[c]	N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole
+8aonn_c[c]	8-Amino-7-oxononanoate
+Nmtrp_c[c]	N-Methyltryptophan
+Sfglutth_c[c]	S-Formylglutathione
+aacald_c[c]	Aminoacetaldehyde
+acac_c[c]	Acetoacetate
+acac_e[e]	Acetoacetate
+acac_p[p]	Acetoacetate
+acgal1p_e[e]	N-Acetyl-D-galactosamine 1-phosphate
+acgal1p_p[p]	N-Acetyl-D-galactosamine 1-phosphate
+acgal_e[e]	N-Acetyl-D-galactosamine
+acgal_p[p]	N-Acetyl-D-galactosamine
+acgam1p_e[e]	N-Acetyl-D-glucosamine 1-phosphate
+acgam1p_p[p]	N-Acetyl-D-glucosamine 1-phosphate
+acgam_e[e]	N-Acetyl-D-glucosamine
+acgam_p[p]	N-Acetyl-D-glucosamine
+acmalt_c[c]	Acetyl-maltose
+acmana_c[c]	N-Acetyl-D-mannosamine
+acmana_e[e]	N-Acetyl-D-mannosamine
+acmana_p[p]	N-Acetyl-D-mannosamine
+acmum_e[e]	N-Acetylmuramate
+acmum_p[p]	N-Acetylmuramate
+acnam_c[c]	N-Acetylneuraminate
+acnam_e[e]	N-Acetylneuraminate
+acnam_p[p]	N-Acetylneuraminate
+adocbi_c[c]	Adenosyl cobinamide
+adocbip_c[c]	Adenosyl cobinamide phosphate
+adocbl_e[e]	Adenosylcobalamin
+adocbl_p[p]	Adenosylcobalamin
+ag_c[c]	Silver
+ag_e[e]	Silver
+agdpcbi_c[c]	Adenosine-GDP-cobinamide
+ala_B_e[e]	Beta-Alanine
+ala_B_p[p]	Beta-Alanine
+ala__L_e[e]	L-Alanine
+ala__L_p[p]	L-Alanine
+alatrna_c[c]	L-Alanyl-tRNA(Ala)
+all__D_c[c]	D-Allose
+all__D_e[e]	D-Allose
+all__D_p[p]	D-Allose
+alpp_p[p]	Applipoprotein
+altrn_c[c]	D-Altronate
+amob_c[c]	S-Adenosyl-4-methylthio-2-oxobutanoate
+amp_e[e]	AMP C10H12N5O7P
+amp_p[p]	AMP C10H12N5O7P
+ap4a_c[c]	P1,P4-Bis(5'-adenosyl) tetraphosphate
+ap5a_c[c]	P1,P5-Bis(5'-adenosyl) pentaphosphate
+apoACP_c[c]	Apoprotein [acyl carrier protein]
+arab__L_e[e]	L-Arabinose
+aragund_c[c]	O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate
+arbt6p_c[c]	Arbutin 6-phosphate
+argtrna_c[c]	L-Arginyl-tRNA(Arg)
+ascb6p_c[c]	L-ascorbate-6-phosphate
+ascb__L_e[e]	L-Ascorbate
+ascb__L_p[p]	L-Ascorbate
+asntrna_c[c]	L-Asparaginyl-tRNA(Asn)
+aso3_c[c]	Arsenite
+aso3_e[e]	Arsenite
+aso3_p[p]	Arsenite
+aso4_c[c]	Arsenate
+asptrna_c[c]	L-Aspartyl-tRNA(Asp)
+bbtcoa_c[c]	Gamma-butyrobetainyl-CoA
+betald_c[c]	Betaine aldehyde
+btal_c[c]	Butanal C4H8O
+btn_c[c]	Biotin
+btnso_c[c]	D-biotin d-sulfoxide
+but_c[c]	Butyrate (n-C4:0)
+but_e[e]	Butyrate (n-C4:0)
+but_p[p]	Butyrate (n-C4:0)
+butso3_c[c]	Butanesulfonate
+butso3_e[e]	Butanesulfonate
+butso3_p[p]	Butanesulfonate
+cbi_c[c]	Cobinamide
+cbi_e[e]	Cobinamide
+cbi_p[p]	Cobinamide
+cd2_e[e]	Cadmium
+cechddd_c[c]	Cis-3-(3-carboxyethyl)-3,5-cyclohexadiene-1,2-diol
+cenchddd_c[c]	Cis-3-(3-carboxyethenyl)-3,5-cyclohexadiene-1,2-diol
+chol_c[c]	Choline C5H14NO
+chol_e[e]	Choline C5H14NO
+chol_p[p]	Choline C5H14NO
+cinnm_c[c]	Trans-Cinnamate
+cit_e[e]	Citrate
+cit_p[p]	Citrate
+cmp_e[e]	CMP C9H12N3O8P
+cmp_p[p]	CMP C9H12N3O8P
+crnDcoa_c[c]	D-carnitinyl-CoA
+crn_e[e]	L-Carnitine
+crncoa_c[c]	L-Carnitinyl-CoA
+csn_e[e]	Cytosine
+csn_p[p]	Cytosine
+ctbtcoa_c[c]	Crotonobetainyl-CoA
+cu_c[c]	Cu+
+cu_e[e]	Cu+
+cu_p[p]	Cu+
+cyan_c[c]	Hydrogen cyanide
+cyan_e[e]	Hydrogen cyanide
+cyan_p[p]	Hydrogen cyanide
+cynt_c[c]	Cyanate
+cynt_e[e]	Cyanate
+cynt_p[p]	Cyanate
+cys__D_c[c]	D-Cysteine
+cys__D_e[e]	D-Cysteine
+cys__D_p[p]	D-Cysteine
+cystrna_c[c]	L-Cysteinyl-tRNA(Cys)
+dad_2_e[e]	Deoxyadenosine
+dad_2_p[p]	Deoxyadenosine
+damp_e[e]	DAMP C10H12N5O6P
+damp_p[p]	DAMP C10H12N5O6P
+dann_c[c]	7,8-Diaminononanoate
+dca_e[e]	Decanoate (n-C10:0)
+dca_p[p]	Decanoate (n-C10:0)
+dcmp_e[e]	DCMP C9H12N3O7P
+dcmp_p[p]	DCMP C9H12N3O7P
+dcyt_e[e]	Deoxycytidine
+dcyt_p[p]	Deoxycytidine
+ddca_e[e]	Dodecanoate (n-C12:0)
+dgmp_e[e]	DGMP C10H12N5O7P
+dgmp_p[p]	DGMP C10H12N5O7P
+dgsn_e[e]	Deoxyguanosine
+dgsn_p[p]	Deoxyguanosine
+dhcinnm_c[c]	2,3-dihydroxicinnamic acid
+dhpppn_c[c]	3-(2,3-Dihydroxyphenyl)propanoate
+dimp_e[e]	DIMP C10H12N4O7P
+dimp_p[p]	DIMP C10H12N4O7P
+din_e[e]	Deoxyinosine
+din_p[p]	Deoxyinosine
+dmbzid_c[c]	5,6-Dimethylbenzimidazole
+dms_c[c]	Dimethyl sulfide
+dms_e[e]	Dimethyl sulfide
+dms_p[p]	Dimethyl sulfide
+dmso_c[c]	Dimethyl sulfoxide
+dmso_e[e]	Dimethyl sulfoxide
+dmso_p[p]	Dimethyl sulfoxide
+dopa_e[e]	Dopamine
+dopa_p[p]	Dopamine
+dsbaox_p[p]	Periplasmic protein disulfide isomerase I (oxidized)
+dsbard_p[p]	Periplasmic protein disulfide isomerase I (reduced)
+dsbcox_p[p]	Protein disulfide isomerase II (oxidized)
+dsbcrd_p[p]	Protein disulfide isomerase II (reduced)
+dsbdox_c[c]	Fused thiol:disulfide interchange protein (oxidized)
+dsbdrd_c[c]	Fused thiol:disulfide interchange protein (reduced)
+dsbgox_p[p]	Periplasmic disulfide isomerase/thiol-disulphide oxidase (oxidized)
+dsbgrd_p[p]	Periplasmic disulfide isomerase/thiol-disulphide oxidase (reduced)
+dtbt_c[c]	Dethiobiotin
+dtmp_e[e]	DTMP C10H13N2O8P
+dtmp_p[p]	DTMP C10H13N2O8P
+dump_e[e]	DUMP C9H11N2O8P
+dump_p[p]	DUMP C9H11N2O8P
+duri_e[e]	Deoxyuridine
+duri_p[p]	Deoxyuridine
+dxyl_c[c]	1-deoxy-D-xylulose
+ethso3_c[c]	Ethanesulfonate
+ethso3_e[e]	Ethanesulfonate
+ethso3_p[p]	Ethanesulfonate
+f1p_c[c]	D-Fructose 1-phosphate
+f6p_e[e]	D-Fructose 6-phosphate
+f6p_p[p]	D-Fructose 6-phosphate
+fald_c[c]	Formaldehyde
+fald_e[e]	Formaldehyde
+fald_p[p]	Formaldehyde
+fc1p_c[c]	L-Fuculose 1-phosphate
+fcl__L_c[c]	L-fuculose
+fe3dcit_e[e]	Fe(III)dicitrate
+fe3dcit_p[p]	Fe(III)dicitrate
+fe3dhbzs_c[c]	Ferric 2,3-dihydroxybenzoylserine
+fe3dhbzs_e[e]	Ferric 2,3-dihydroxybenzoylserine
+fe3dhbzs_p[p]	Ferric 2,3-dihydroxybenzoylserine
+fmettrna_c[c]	N-Formylmethionyl-tRNA
+fru_e[e]	D-Fructose
+fru_p[p]	D-Fructose
+frulys_c[c]	Fructoselysine
+frulys_e[e]	Fructoselysine
+frulys_p[p]	Fructoselysine
+fruur_c[c]	D-Fructuronate
+fruur_e[e]	D-Fructuronate
+fruur_p[p]	D-Fructuronate
+fuc__L_c[c]	L-Fucose
+fuc__L_e[e]	L-Fucose
+fuc__L_p[p]	L-Fucose
+g1p_e[e]	D-Glucose 1-phosphate
+g1p_p[p]	D-Glucose 1-phosphate
+g3pc_c[c]	Sn-Glycero-3-phosphocholine
+g3pc_e[e]	Sn-Glycero-3-phosphocholine
+g3pc_p[p]	Sn-Glycero-3-phosphocholine
+g3pi_c[c]	Sn-Glycero-3-phospho-1-inositol
+g3pi_e[e]	Sn-Glycero-3-phospho-1-inositol
+g3pi_p[p]	Sn-Glycero-3-phospho-1-inositol
+g3ps_c[c]	Glycerophosphoserine
+g3ps_e[e]	Glycerophosphoserine
+g3ps_p[p]	Glycerophosphoserine
+g6p_e[e]	D-Glucose 6-phosphate
+g6p_p[p]	D-Glucose 6-phosphate
+gal1p_e[e]	Alpha-D-Galactose 1-phosphate
+gal1p_p[p]	Alpha-D-Galactose 1-phosphate
+gal_bD_e[e]	Beta D-Galactose
+gal_bD_p[p]	Beta D-Galactose
+gal_e[e]	D-Galactose
+gal_p[p]	D-Galactose
+galct__D_c[c]	D-Galactarate
+galct__D_e[e]	D-Galactarate
+galct__D_p[p]	D-Galactarate
+galctn__D_c[c]	D-Galactonate
+galctn__D_e[e]	D-Galactonate
+galctn__D_p[p]	D-Galactonate
+galctn__L_c[c]	L-Galactonate
+galctn__L_e[e]	L-Galactonate
+galctn__L_p[p]	L-Galactonate
+galt1p_c[c]	Galactitol 1-phosphate
+galt_e[e]	Galactitol
+galt_p[p]	Galactitol
+galur_c[c]	D-Galacturonate
+galur_e[e]	D-Galacturonate
+galur_p[p]	D-Galacturonate
+gam6p_e[e]	D-Glucosamine 6-phosphate
+gam6p_p[p]	D-Glucosamine 6-phosphate
+gam_e[e]	D-Glucosamine
+gam_p[p]	D-Glucosamine
+garagund_c[c]	Glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate
+gbbtn_c[c]	Gamma-butyrobetaine
+gbbtn_e[e]	Gamma-butyrobetaine
+gbbtn_p[p]	Gamma-butyrobetaine
+gdp_e[e]	GDP C10H12N5O11P2
+gdp_p[p]	GDP C10H12N5O11P2
+gfgaragund_c[c]	Galactofuranosyl-glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate
+glcr_c[c]	D-Glucarate
+glcr_e[e]	D-Glucarate
+glcr_p[p]	D-Glucarate
+glcur1p_e[e]	D-Glucuronate 1-phosphate
+glcur1p_p[p]	D-Glucuronate 1-phosphate
+glcur_c[c]	D-Glucuronate
+glcur_e[e]	D-Glucuronate
+glcur_p[p]	D-Glucuronate
+gln__L_e[e]	L-Glutamine
+gln__L_p[p]	L-Glutamine
+glntrna_c[c]	L-Glutaminyl-tRNA(Gln)
+gly_e[e]	Glycine
+gly_p[p]	Glycine
+glyb_c[c]	Glycine betaine
+glyb_e[e]	Glycine betaine
+glyb_p[p]	Glycine betaine
+glyc2p_e[e]	Glycerol 2-phosphate
+glyc2p_p[p]	Glycerol 2-phosphate
+glytrna_c[c]	Glycyl-tRNA(Gly)
+gmp_e[e]	GMP C10H12N5O8P
+gmp_p[p]	GMP C10H12N5O8P
+gp4g_c[c]	P1,P4-Bis(5'-guanosyl) tetraphosphate
+gsn_e[e]	Guanosine
+gsn_p[p]	Guanosine
+gthox_e[e]	Oxidized glutathione
+gthox_p[p]	Oxidized glutathione
+gtp_e[e]	GTP C10H12N5O14P3
+gtp_p[p]	GTP C10H12N5O14P3
+h2_c[c]	Hydrogen
+h2_e[e]	Hydrogen
+h2_p[p]	Hydrogen
+h2o2_e[e]	Hydrogen peroxide
+h2o2_p[p]	Hydrogen peroxide
+hacolipa_e[e]	Hepta-acylated core oligosaccharide lipid A (E. coli)
+halipa_e[e]	Hepta-acylated KDO(2)-lipid (A)
+hdca_e[e]	Hexadecanoate (n-C16:0)
+hdcea_e[e]	Hexadecenoate (n-C16:1)
+hg2_c[c]	Mercury  charged 2  Hg
+hg2_e[e]	Mercury  charged 2  Hg
+hg2_p[p]	Mercury  charged 2  Hg
+histrna_c[c]	L-Histidyl-tRNA(His)
+hkndd_c[c]	2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate
+hkntd_c[c]	2-hydroxy-6-ketononatrienedioate
+hmgth_c[c]	Hydroxymethylglutathione
+hqn_c[c]	Hydroquinone
+iletrna_c[c]	L-Isoleucyl-tRNA(Ile)
+imp_e[e]	IMP C10H11N4O8P
+imp_p[p]	IMP C10H11N4O8P
+inost_c[c]	Myo-Inositol
+inost_e[e]	Myo-Inositol
+inost_p[p]	Myo-Inositol
+isetac_c[c]	Isethionic acid
+isetac_e[e]	Isethionic acid
+isetac_p[p]	Isethionic acid
+lac__L_c[c]	L-Lactate
+lac__L_e[e]	L-Lactate
+lac__L_p[p]	L-Lactate
+lald__L_c[c]	L-Lactaldehyde
+lcts_e[e]	Lactose C12H22O11
+leutrna_c[c]	L-Leucyl-tRNA(Leu)
+lpp_p[p]	Lipoprotein
+lystrna_c[c]	L-Lysine-tRNA (Lys)
+lyx__L_c[c]	L-Lyxose
+lyx__L_e[e]	L-Lyxose
+lyx__L_p[p]	L-Lyxose
+mal__D_c[c]	D-Malate
+mal__D_e[e]	D-Malate
+mal__D_p[p]	D-Malate
+mal__L_e[e]	L-Malate
+mal__L_p[p]	L-Malate
+malt6p_c[c]	Maltose 6'-phosphate
+malt_c[c]	Maltose C12H22O11
+malt_e[e]	Maltose C12H22O11
+malt_p[p]	Maltose C12H22O11
+malthx_e[e]	Maltohexaose
+malthx_p[p]	Maltohexaose
+maltpt_e[e]	Maltopentaose
+maltpt_p[p]	Maltopentaose
+malttr_c[c]	Maltotriose C18H32O16
+malttr_e[e]	Maltotriose C18H32O16
+malttr_p[p]	Maltotriose C18H32O16
+maltttr_e[e]	Maltotetraose
+maltttr_p[p]	Maltotetraose
+man6p_e[e]	D-Mannose 6-phosphate
+man6p_p[p]	D-Mannose 6-phosphate
+man6pglyc_c[c]	2(alpha-D-Mannosyl-6-phosphate)-D-glycerate
+man_e[e]	D-Mannose
+man_p[p]	D-Mannose
+mana_c[c]	D-Mannonate
+manglyc_e[e]	2(alpha-D-Mannosyl)-D-glycerate
+manglyc_p[p]	2(alpha-D-Mannosyl)-D-glycerate
+melib_e[e]	Melibiose C12H22O11
+mercppyr_c[c]	Mercaptopyruvate
+met__D_c[c]	D-Methionine
+met__D_e[e]	D-Methionine
+met__D_p[p]	D-Methionine
+met__L_e[e]	L-Methionine
+met__L_p[p]	L-Methionine
+metsox_R__L_e[e]	L-methionine-R-sulfoxide
+metsox_R__L_p[p]	L-methionine-R-sulfoxide
+metsox_S__L_e[e]	L-Methionine Sulfoxide
+metsox_S__L_p[p]	L-Methionine Sulfoxide
+mettrna_c[c]	L-Methionyl-tRNA (Met)
+mi1p__D_c[c]	1D-myo-Inositol 1-phosphate
+minohp_e[e]	Myo-Inositol hexakisphosphate
+minohp_p[p]	Myo-Inositol hexakisphosphate
+mmet_c[c]	S-Methyl-L-methionine
+mmet_e[e]	S-Methyl-L-methionine
+mmet_p[p]	S-Methyl-L-methionine
+mnl_e[e]	D-Mannitol
+mnl_p[p]	D-Mannitol
+mso3_c[c]	Methanesulfonate
+mso3_e[e]	Methanesulfonate
+mso3_p[p]	Methanesulfonate
+n2o_c[c]	Nitrous oxide
+n2o_e[e]	Nitrous oxide
+n2o_p[p]	Nitrous oxide
+nac_e[e]	Nicotinate
+nac_p[p]	Nicotinate
+ni2_e[e]	Nickel
+nmn_e[e]	NMN C11H14N2O8P
+nmn_p[p]	NMN C11H14N2O8P
+no2_c[c]	Nitrite
+no2_e[e]	Nitrite
+no2_p[p]	Nitrite
+no3_c[c]	Nitrate
+no3_e[e]	Nitrate
+no3_p[p]	Nitrate
+no_c[c]	Nitric oxide
+no_e[e]	Nitric oxide
+no_p[p]	Nitric oxide
+o16a2und_p[p]	(O16 antigen)x2 undecaprenyl diphosphate
+o16a3und_p[p]	(O16 antigen)x3 undecaprenyl diphosphate
+o16a4colipa_e[e]	(O16 antigen)x4 core oligosaccharide lipid A
+o16a4colipa_p[p]	(O16 antigen)x4 core oligosaccharide lipid A
+o16a4und_p[p]	(O16 antigen)x4 undecaprenyl diphosphate
+o16aund_c[c]	O16 antigen undecaprenyl diphosphate
+o16aund_p[p]	O16 antigen undecaprenyl diphosphate
+o2s_e[e]	Superoxide anion
+o2s_p[p]	Superoxide anion
+ocdca_e[e]	Octadecanoate (n-C18:0)
+ocdcea_e[e]	Octadecenoate (n-C18:1)
+octa_e[e]	Octanoate (n-C8:0)
+octa_p[p]	Octanoate (n-C8:0)
+op4en_c[c]	2-Oxopent-4-enoate
+orot_e[e]	Orotate C5H3N2O4
+orot_p[p]	Orotate C5H3N2O4
+pac_c[c]	Phenylacetic acid
+pacald_c[c]	Phenylacetaldehyde
+pacald_e[e]	Phenylacetaldehyde
+pacald_p[p]	Phenylacetaldehyde
+peamn_e[e]	Phenethylamine
+peamn_p[p]	Phenethylamine
+phaccoa_c[c]	Phenylacetyl-CoA
+phetrna_c[c]	L-Phenylalanyl-tRNA(Phe)
+pmcoa_c[c]	Pimeloyl-CoA
+pnto__R_e[e]	(R)-Pantothenate
+pnto__R_p[p]	(R)-Pantothenate
+ppa_e[e]	Propionate (n-C3:0)
+ppa_p[p]	Propionate (n-C3:0)
+ppal_c[c]	Propanal
+ppal_e[e]	Propanal
+ppal_p[p]	Propanal
+pppn_c[c]	Phenylpropanoate
+pppn_e[e]	Phenylpropanoate
+pppn_p[p]	Phenylpropanoate
+ppt_e[e]	Phosphonate
+ppt_p[p]	Phosphonate
+progly_c[c]	L-Prolinylglycine
+progly_e[e]	L-Prolinylglycine
+progly_p[p]	L-Prolinylglycine
+protrna_c[c]	L-Prolyl-tRNA(Pro)
+psclys_c[c]	Psicoselysine
+psclys_e[e]	Psicoselysine
+psclys_p[p]	Psicoselysine
+pser__L_e[e]	O-Phospho-L-serine
+pser__L_p[p]	O-Phospho-L-serine
+r5p_e[e]	Alpha-D-Ribose 5-phosphate
+r5p_p[p]	Alpha-D-Ribose 5-phosphate
+ragund_c[c]	Rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate
+rbl__L_c[c]	L-Ribulose
+rdmbzi_c[c]	N1-(alpha-D-ribosyl)-5,6-dimethylbenzimidazole
+rib__D_e[e]	D-Ribose
+rib__D_p[p]	D-Ribose
+rml1p_c[c]	L-Rhamnulose 1-phosphate
+rml_c[c]	L-Rhamnulose
+rmn_c[c]	L-Rhamnose
+rmn_e[e]	L-Rhamnose
+rmn_p[p]	L-Rhamnose
+s_c[c]	Sulfur
+sarcs_c[c]	Sarcosine C3H7NO2
+sbt__D_e[e]	D-Sorbitol
+sbt__D_p[p]	D-Sorbitol
+sectrna_c[c]	L-Selenocysteinyl-tRNA(Sec)
+seln_c[c]	Selenide
+selnp_c[c]	Selenophosphate
+ser__D_e[e]	D-Serine
+ser__D_p[p]	D-Serine
+sertrna_c[c]	L-Seryl-tRNA(Ser)
+sertrna_sec_c[c]	L-Seryl-tRNA(Sec)
+skm_e[e]	Shikimate
+skm_p[p]	Shikimate
+so2_c[c]	Sulfur dioxide
+so2_e[e]	Sulfur dioxide
+so2_p[p]	Sulfur dioxide
+so3_e[e]	Sulfite
+so3_p[p]	Sulfite
+spmd_e[e]	Spermidine
+spmd_p[p]	Spermidine
+suc6p_c[c]	Sucrose 6-phosphate
+sucr_e[e]	Sucrose C12H22O11
+sucr_p[p]	Sucrose C12H22O11
+sulfac_c[c]	Sulfoacetate
+sulfac_e[e]	Sulfoacetate
+sulfac_p[p]	Sulfoacetate
+tag6p__D_c[c]	D-Tagatose 6-phosphate
+tagur_c[c]	D-Tagaturonate
+tartr__L_c[c]	L-tartrate
+tartr__L_e[e]	L-tartrate
+tartr__L_p[p]	L-tartrate
+taur_c[c]	Taurine C2H7NO3S
+taur_e[e]	Taurine C2H7NO3S
+taur_p[p]	Taurine C2H7NO3S
+tcynt_c[c]	Thiocyanate
+tcynt_e[e]	Thiocyanate
+tcynt_p[p]	Thiocyanate
+thm_c[c]	Thiamin
+thm_e[e]	Thiamin
+thm_p[p]	Thiamin
+thrp_e[e]	L-Threonine O-3-phosphate
+thrp_p[p]	L-Threonine O-3-phosphate
+thrtrna_c[c]	L-Threonyl-tRNA(Thr)
+tma_c[c]	Trimethylamine
+tma_e[e]	Trimethylamine
+tma_p[p]	Trimethylamine
+tmao_c[c]	Trimethylamine N-oxide
+tmao_e[e]	Trimethylamine N-oxide
+tmao_p[p]	Trimethylamine N-oxide
+tre_e[e]	Trehalose
+tre_p[p]	Trehalose
+trnaala_c[c]	TRNA(Ala)
+trnaarg_c[c]	TRNA(Arg)
+trnaasn_c[c]	TRNA Asn  C10H17O10PR2
+trnaasp_c[c]	TRNA(Asp)
+trnacys_c[c]	TRNA(Cys)
+trnagln_c[c]	TRNA(Gln)
+trnagly_c[c]	TRNA(Gly)
+trnahis_c[c]	TRNA(His)
+trnaile_c[c]	TRNA(Ile)
+trnaleu_c[c]	TRNA(Leu)
+trnalys_c[c]	TRNA(Lys)
+trnamet_c[c]	TRNA(Met)
+trnaphe_c[c]	TRNA(Phe)
+trnapro_c[c]	TRNA(Pro)
+trnasecys_c[c]	TRNA(SeCys)
+trnaser_c[c]	TRNA(Ser)
+trnathr_c[c]	TRNA(Thr)
+trnatrp_c[c]	TRNA(Trp)
+trnatyr_c[c]	TRNA(Tyr)
+trnaval_c[c]	TRNA(Val)
+trptrna_c[c]	L-Tryptophanyl-tRNA(Trp)
+tsul_c[c]	Thiosulfate
+tsul_e[e]	Thiosulfate
+tsul_p[p]	Thiosulfate
+ttdca_e[e]	Tetradecanoate (n-C14:0)
+ttdcea_e[e]	Tetradecenoate (n-C14:1)
+tym_e[e]	Tyramine
+tym_p[p]	Tyramine
+tyrp_e[e]	Phosphotyrosine
+tyrp_p[p]	Phosphotyrosine
+tyrtrna_c[c]	L-Tyrosyl-tRNA(Tyr)
+uacgam_e[e]	UDP-N-acetyl-D-glucosamine
+uacgam_p[p]	UDP-N-acetyl-D-glucosamine
+udpacgal_e[e]	UDP-N-acetyl-D-galactosamine
+udpacgal_p[p]	UDP-N-acetyl-D-galactosamine
+udpg_e[e]	UDPglucose
+udpg_p[p]	UDPglucose
+udpgal_e[e]	UDPgalactose
+udpgal_p[p]	UDPgalactose
+udpglcur_e[e]	UDP-D-glucuronate
+udpglcur_p[p]	UDP-D-glucuronate
+ump_e[e]	UMP C9H11N2O9P
+ump_p[p]	UMP C9H11N2O9P
+valtrna_c[c]	L-Valyl-tRNA(Val)
+xmp_e[e]	Xanthosine 5'-phosphate
+xmp_p[p]	Xanthosine 5'-phosphate
+xu5p__L_c[c]	L-Xylulose 5-phosphate
+xyl__D_c[c]	D-Xylose
+xyl__D_e[e]	D-Xylose
+xyl__D_p[p]	D-Xylose
+xylu__D_c[c]	D-Xylulose
+xylu__L_c[c]	L-Xylulose
+xylu__L_e[e]	L-Xylulose
+xylu__L_p[p]	L-Xylulose

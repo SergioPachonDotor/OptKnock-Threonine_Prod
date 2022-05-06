@@ -50,6 +50,7 @@ dxyl_c[c]	1-deoxy-D-xylulose
 fmettrna_c[c]	N-Formylmethionyl-tRNA
 garagund_c[c]	Glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate
 gbbtn_c[c]	Gamma-butyrobetaine
+gfgaragund_c[c]	Galactofuranosyl-glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate
 glntrna_c[c]	L-Glutaminyl-tRNA(Gln)
 glytrna_c[c]	Glycyl-tRNA(Gly)
 gp4g_c[c]	P1,P4-Bis(5'-guanosyl) tetraphosphate

@@ -13,65 +13,39 @@
 # Github: https://github.com/SergioPachonDotor
 
 import os
-import cobra
-import cobra.test
-from cobra.flux_analysis import gapfill
 
-def import_existing_model(ex_model_path='E_coli_sbml/ecoli_core_model.xml', destination_path='./genome/E_coli_yaml/'):
+model_name = 'iAF1260_mutant_delta_f6p_c'
+model_path_sbml = f'./genome/Mutants/{model_name}.xml'
+model_path_yaml= f'./genome/{model_name}_yaml/'
+results_path= f'../../results/{model_name}/'
+
+def import_existing_model(ex_model_path=model_path_sbml, destination_path=model_path_yaml):
     os.system(f'psamm-import sbml --source {ex_model_path} --dest {destination_path}')
 
 
-def gapfind_and_gapcheck(solver='gurobi', model_path='./genome/E_coli_yaml/', deep_check=False, results_path='../../results/', file_name='gapcheck', file_extension='txt'):
+def gapfind_and_gapcheck(solver='gurobi', model_path=model_path_yaml, deep_check=False, results_path=results_path, file_name='gapcheck', file_extension='txt'):
     
     os.chdir(model_path)
 
     if deep_check == True:
-        os.system(f'psamm-model gapcheck --method prodcheck --solver name={solver} > {results_path}{file_name}_prodcheck.{file_extension}', objective= 'thr__L_c')
-        os.system(f'psamm-model gapcheck --method sinkcheck --unrestricted-exchange --solver name={solver} > {results_path}{file_name}_sinkcheck_unrestricted-exchange.{file_extension}')
-        os.system(f'psamm-model gapcheck --method gapfind --unrestricted-exchange --solver name={solver} > {results_path}{file_name}_gapfind_unrestricted-exchange.{file_extension}')
+        os.system(f'psamm-model gapcheck --method prodcheck --solver name={solver} > {results_path}{model_name}_{file_name}_prodcheck.{file_extension}', objective= 'thr__L_c')
+        os.system(f'psamm-model gapcheck --method sinkcheck --unrestricted-exchange --solver name={solver} > {results_path}{model_name}_{file_name}_sinkcheck_unrestricted-exchange.{file_extension}')
+        os.system(f'psamm-model gapcheck --method gapfind --unrestricted-exchange --solver name={solver} > {results_path}{model_name}_{file_name}_gapfind_unrestricted-exchange.{file_extension}')
 
     if deep_check == False:
-        os.system(f'psamm-model gapcheck --method gapfind --unrestricted-exchange --solver name={solver} --objective=ATPM > {results_path}{file_name}_gapfind_unrestricted-exchange.{file_extension}')
+        os.system(f'psamm-model gapcheck --method gapfind --unrestricted-exchange --solver name={solver} > {results_path}{model_name}_{file_name}_gapfind_unrestricted-exchange.{file_extension}')
 
 
-def gapfill_psamm(model_path='./genome/E_coli_yaml/', solver='gurobi', results_path='../../results/', file_name='gapcheck', file_extension='txt'):
-    
-    os.chdir(model_path)
-    os.system(f'psamm-model gapfill --solver name={solver} --epsilon 0.01 --compound thr__L_c > {results_path}{file_name}_gapfill.{file_extension}')
-    # os.system('psamm-model gapfill --no-implicit-sinks')
-    # os.system(f'psamm-model fastgapfill --solver name={solver}')
-    # fastgapfill
-    # --db-penalty
+def gapfill_psamm(model_path=model_path_yaml, solver='gurobi', results_path=results_path, file_name='gapcheck', file_extension='txt'):
+    os.chdir(model_path)    
+    os.system(f'psamm-model gapfill --solver name={solver} --epsilon 0.0001 --compound thr__L_c > {results_path}{model_name}_{file_name}_gapfill.{file_extension}')
 
-# def gapfill_cobrapy(model_path='./genome/', model_name='iAF1260', results_path='../../results/'):
-#     model = cobra.io.read_sbml_model(f'{model_path}{model_name}.xml')
-#     model.solver = 'gurobi'
-#     model.objective = 'THRS'
-#     wt_sol = model.optimize().objective_value
-#     print(wt_sol)
-#     consistent_model = cobra.flux_analysis.fastcc(model)
-#     print(len(consistent_model.reactions))
-    
-#     blocked = cobra.flux_analysis.find_blocked_reactions(consistent_model)
-#     print(len(blocked))
-#     new_solution = consistent_model.optimize()
-#     print(new_solution.objective_value)
-
-#     # universal = cobra.Model('universal_reactions')
-#     # universal.add_reactions(blocked)
-    
-
-#     # with model:
-#     #     model.objective = model.add_boundary(model.metabolites.get_by_id('thr__L_c'), type='demand')
-    
-#     # solution = gapfill(model, demand_reactions=False, iterations=4) #.to_csv(f'gapfill_{results_path}{model_name}.csv')
-#     # print(solution)
-#     # # print(solution)
-#     # # return solution
+def export_model():
+    pass
 
 
 if __name__ == '__main__':
-    # gapfind_and_gapcheck(file_extension='tsv')
-    # gapfill_cobrapy()
-    gapfill_psamm()
-    
+    # import_existing_model()
+    # gapfind_and_gapcheck()
+    # gapfill_psamm()
+    pass
